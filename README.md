@@ -16,7 +16,7 @@ This project is an AI-powered chatbot that leverages the **LLaMA 3.1 8B model fr
 Clone the repository and navigate into the project directory:
 
 ```bash
-git clone https://https://github.com/1sarthakbhardwaj/Sarvam-AI
+git clone [https://https://github.com/1sarthakbhardwaj/Sarvam-AI](https://github.com/1sarthakbhardwaj/Sarvam-AI.git)
 cd Sarvam-AI
 ```
 
